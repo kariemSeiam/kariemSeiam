@@ -4,17 +4,17 @@ Hello there! I'm Kariem Seiam, an enthusiastic Android Developer based in Egypt.
 
 ## 🚀 About Me: 🌟
 
-I'm a dedicated and passionate Computer Science and Mathematics student . As a good native Android developer with expertise in Java and Kotlin, I'm constantly staying up-to-date with the latest advancements in technology .
+I'm a dedicated and passionate Computer Science and Mathematics student. As a skilled native Android developer proficient in Java and Kotlin, I stay consistently updated with the latest advancements in technology.
 
 ## 🔗 Let's Connect!
 
-<a href="https://wa.me/201033939828" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B201033939828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:kariemseiam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-kariemseiam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kariemseiam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariem%20Seiam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Connect with me through various channels. Whether it's discussing potential opportunities or collaborating on exciting projects, I'm just a message away.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201033939828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201033939828) [![Gmail](https://img.shields.io/badge/Gmail-kariemseiam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kariemseiam@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kariem%20Seiam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariemseiam/)
 
 ## 🎓 Educational Background:
 
-I'm currently pursuing a Bachelor's Degree in Computer Science and Mathematics at Zagazig University, with an expected graduation in 2024.
+I am currently pursuing a Bachelor's Degree in Computer Science and Mathematics at Zagazig University, with an expected graduation in 2024.
 
 ## 🌐 Let's Connect:
 
