@@ -6,11 +6,11 @@ Hello there! I'm Kariem Seiam, an enthusiastic Android Developer based in Egypt.
 
 I'm a dedicated and passionate Computer Science and Mathematics student . As a good native Android developer with expertise in Java and Kotlin, I'm constantly staying up-to-date with the latest advancements in technology .
 
-## 📞 Connect with Me:
+## 🔗 Let's Connect!
 
-Let's connect and discuss exciting opportunities or collaborate on projects! Feel free to reach out through the following channels:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201033939828-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201033939828) [![Gmail](https://img.shields.io/badge/Gmail-kariemseiam%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kariemseiam@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kariem%20Seiam-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariemseiam/)
+<a href="https://wa.me/201033939828" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B201033939828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:kariemseiam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-kariemseiam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kariemseiam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariem%20Seiam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎓 Educational Background:
 
