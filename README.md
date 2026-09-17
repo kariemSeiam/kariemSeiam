@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://me.kariem.dev">
-    <img alt="Six systems drawn on one time axis — five of them running at once" src="https://me.kariem.dev/card/hero.svg" width="880">
-  </a>
-</p>
+<a href="https://me.kariem.dev"><img alt="Six systems drawn on one time axis — five of them running at once" src="https://me.kariem.dev/card/hero.svg" width="100%"></a>
 
 Most of what I build answers the same question: *where is it now?*
 Geolocation, ERP, ride-hailing, tracking — one question, six systems.
