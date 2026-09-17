@@ -1,8 +1,7 @@
 <a href="https://me.kariem.dev"><img alt="Six systems drawn on one time axis — five of them running at once" src="https://me.kariem.dev/card/hero.svg" width="100%"></a>
 
 Most of what I build answers the same question: *where is it now?*
-Geolocation, ERP, ride-hailing, tracking — one question, six systems.
-Production. Egypt.
+Six systems so far. The list isn't the point — the question is.
 
 The card above isn't a picture of my work. It's generated from it, at build
 time, from the same collection [me.kariem.dev](https://me.kariem.dev) renders:
