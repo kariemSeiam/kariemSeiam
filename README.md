@@ -1,4 +1,4 @@
-<a href="https://me.kariem.dev"><img alt="Six systems drawn on one time axis — five of them running at once" src="https://me.kariem.dev/card/hero.svg" width="100%"></a>
+<a href="https://me.kariem.dev"><img alt="Six systems drawn on one time axis — five of them running at once" src="https://me.kariem.dev/card/hero.svg?v=2" width="100%"></a>
 
 Most of what I build answers the same question: *where is it now?*
 Six systems so far. The list isn't the point — the question is.
