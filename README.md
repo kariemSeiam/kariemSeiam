@@ -1,7 +1,5 @@
 <a href="https://me.kariem.dev"><img alt="Every system I've worked on, on one time axis. Generated from me.kariem.dev at build time." src="https://me.kariem.dev/card/hero.svg?v=3" width="100%"></a>
 
-### I build systems that know themselves, and keep going.
-
 **Work**
 
 - **[HVAR](https://me.kariem.dev/work/hvar/)**: one order, four systems, and the work of keeping their truths from contradicting each other.
