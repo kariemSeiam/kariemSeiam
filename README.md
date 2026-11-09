@@ -3,7 +3,7 @@
 **Work**
 
 - **[HVAR](https://me.kariem.dev/work/hvar/)**: one order, four systems, and the work of keeping their truths from contradicting each other.
-- **[Geolink](https://me.kariem.dev/work/geolink/)**: Egypt's own maps API for search, directions and geocoding. Four rewrites deep, still live.
+- **[Geolink](https://me.kariem.dev/work/geolink/)**, founded by me: Egypt's own maps API for search, directions and geocoding. Four rewrites deep, still live.
 - **[Taxiarab](https://me.kariem.dev/work/taxiarab/)**: ride-hailing, live in Jordan. I own where it fails silently: services, sockets, invites.
 - **[Ataya](https://me.kariem.dev/work/ataya/)**: a shop's counter, web store and in-store kiosk, on one ledger that only records what happened.
 - **[Dinamo](https://me.kariem.dev/work/dinamo/)**: Egyptian ride-hailing. I owned how the driver app hears about a trip.
